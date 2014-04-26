@@ -3,9 +3,9 @@ EZ-Cards
 
 ![Image] (https://raw.githubusercontent.com/X8462/EZ-Cards/master/EZCardsApp/src/main/ezcard%20screenshot.png)
 
-##[Installation](https://github.com/X8462/EZ-Cards/blob/master/Install.md) 
+##[Installation](https://github.com/EZ-Cards-HCI/EZ-Cards/blob/master/Install.md) 
 
-###[APK Install](https://github.com/X8462/EZ-Cards/raw/master/EZCardsApp.apk)
+###[APK Install](https://github.com/EZ-Cards-HCI/EZ-Cards/raw/master/EZCardsApp.apk)
 
 [EZ Card Reader with OCR Technology] for [Open Source Software Development], [Version: 1.0]
 by [Shikha Agarwal,Christina Bijayananda, Alshaymaa Alhazzaa, Marcellin Tchassem and Irfan Raziuddin] [04/24/2014]
@@ -52,11 +52,11 @@ Android device, Developer Option- ON
 
 To clone this repo:
 
-   git clone git: https://github.com/X8462/EZ-Cards.git
+   git clone git: https://github.com/EZ-Cards-HCI/EZ-Cards.git
 
 To report issues:
 
-   https://github.com/X8462/EZ-Cards/issues
+   https://github.com/EZ-Cards-HCI/EZ-Cards/issues
    
 V. TECHNICAL SUPPORT
 
