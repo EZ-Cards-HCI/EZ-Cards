@@ -7,8 +7,7 @@ EZ-Cards
 
 ###[APK Install](https://github.com/EZ-Cards-HCI/EZ-Cards/raw/master/EZCardsApp.apk)
 
-[EZ Card Reader with OCR Technology] for [Open Source Software Development], [Version: 1.0]
-by [Shikha Agarwal,Christina Bijayananda, Alshaymaa Alhazzaa, Marcellin Tchassem and Irfan Raziuddin] [04/24/2014]
+[EZ Card Reader with OCR Technology] for [Open Source Software Development], [Version: 3.0]
 
 CONTENTS
 
